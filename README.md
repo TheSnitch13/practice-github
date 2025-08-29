@@ -5,4 +5,5 @@
   Para poder ejecutar la aplicación es necesario ejecutar:
 
 ```npm react install```
-  
+
+  Haciendo actualizaciones.
